@@ -7,7 +7,7 @@
 ## 🚀 Visão Geral
 Bem-vindo ao repositório oficial do meu portfólio pessoal. Este projeto foi desenvolvido para centralizar minhas experiências, projetos e habilidades como desenvolvedor e designer.
 
-🔗 **Acesse o portfólio:** [https://isaacramos.dev](https://isaacramos.dev)
+🔗 **Acesse o portfólio: (https://izackzin.github.io/Portfolio/)
 
 ---
 
@@ -69,9 +69,9 @@ Olá! Sou **Isaac Ramos**, um entusiasta da tecnologia com uma abordagem multidi
 ## 📬 Contato
 Sinta-se à vontade para entrar em contato ou acompanhar meu trabalho:
 
-*   📧 **E-mail:** isaac.ramos@email.com
-*   💼 **LinkedIn:** [linkedin.com/in/isaacramos](https://linkedin.com/in/isaacramos)
-*   🐙 **GitHub:** [github.com/isaacramos](https://github.com/isaacramos)
+*   📧 **E-mail:** isaacramosrk@gmail.com
+*   💼 **LinkedIn: https://www.linkedin.com/in/isaac-ramos-4616b9368/
+*   🐙 **GitHub:** https://github.com/Izackzin
 
 ---
 
