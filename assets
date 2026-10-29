@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 66" width="900" height="66" role="img" aria-label="Formação E Habilidades">
+<rect x="10" y="10" width="886" height="52" fill="#111111"/>
+<rect x="3" y="3" width="886" height="52" fill="#F1EFE8" stroke="#111111" stroke-width="4"/>
+<rect x="3" y="3" width="56" height="52" fill="#B93A0B" stroke="#111111" stroke-width="4"/>
+<text x="82" y="38" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-size="24" fill="#111111">FORMAÇÃO E HABILIDADES</text>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 66" width="900" height="66" role="img" aria-label="Objetivo Principal">
+<rect x="10" y="10" width="886" height="52" fill="#111111"/>
+<rect x="3" y="3" width="886" height="52" fill="#F1EFE8" stroke="#111111" stroke-width="4"/>
+<rect x="3" y="3" width="56" height="52" fill="#B93A0B" stroke="#111111" stroke-width="4"/>
+<text x="82" y="38" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-size="24" fill="#111111">OBJETIVO PRINCIPAL</text>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="1000" height="320" role="img" aria-label="Isaac Ramos — Engenharia de Software, Design Gráfico e Edição de Vídeo">
+<defs><clipPath id="c"><rect x="8" y="8" width="984" height="304"/></clipPath></defs>
+<rect x="18" y="18" width="982" height="302" fill="#111111"/>
+<rect x="4" y="4" width="984" height="308" fill="#F1EFE8" stroke="#111111" stroke-width="8"/>
+<g clip-path="url(#c)">
+<path d="M0 262 C150 222 260 300 430 262 S 760 214 1000 262 V320 H0Z" fill="#F28A5B"/>
+<path d="M0 282 C170 246 300 316 480 280 S 790 240 1000 284 V320 H0Z" fill="#B93A0B"/>
+<path d="M0 302 C200 274 340 324 520 298 S 820 270 1000 304 V320 H0Z" fill="#111111"/>
+</g>
+<rect x="690" y="8" width="302" height="236" fill="#111111"/>
+<text x="716" y="96" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-size="23" fill="#F1EFE8">Dev Full Stack</text>
+<text x="716" y="148" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-size="23" fill="#F28A5B">Designer Gráfico</text>
+<text x="716" y="200" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-size="23" fill="#F1EFE8">Editor de Vídeo</text>
+<g transform="rotate(-4 90 40)"><rect x="36" y="22" width="190" height="34" fill="#B93A0B" stroke="#111111" stroke-width="4"/>
+<text x="131" y="45" text-anchor="middle" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#fff">PORTFÓLIO 2026</text></g>
+<text x="40" y="150" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-size="92" fill="#111111" letter-spacing="-3">Isaac</text>
+<text x="40" y="232" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-size="92" fill="#B93A0B" letter-spacing="-3">Ramos</text>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="Rodapé">
+<path d="M0 60 C160 20 300 100 480 60 S 800 14 1000 62 V150 H0Z" fill="#F28A5B"/>
+<path d="M0 84 C180 44 320 122 500 84 S 810 40 1000 86 V150 H0Z" fill="#B93A0B"/>
+<path d="M0 108 C200 80 340 134 520 108 S 820 82 1000 110 V150 H0Z" fill="#111111"/>
+<text x="500" y="140" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="16" fill="#F1EFE8">Feito por Isaac Ramos · 2026</text>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 66" width="900" height="66" role="img" aria-label="Arsenal Tecnológico">
+<rect x="10" y="10" width="886" height="52" fill="#111111"/>
+<rect x="3" y="3" width="886" height="52" fill="#F1EFE8" stroke="#111111" stroke-width="4"/>
+<rect x="3" y="3" width="56" height="52" fill="#B93A0B" stroke="#111111" stroke-width="4"/>
+<text x="82" y="38" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-size="24" fill="#111111">ARSENAL TECNOLÓGICO</text>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 66" width="900" height="66" role="img" aria-label="Experiência E Projetos">
+<rect x="10" y="10" width="886" height="52" fill="#111111"/>
+<rect x="3" y="3" width="886" height="52" fill="#F1EFE8" stroke="#111111" stroke-width="4"/>
+<rect x="3" y="3" width="56" height="52" fill="#B93A0B" stroke="#111111" stroke-width="4"/>
+<text x="82" y="38" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-size="24" fill="#111111">EXPERIÊNCIA E PROJETOS</text>
+</svg>
