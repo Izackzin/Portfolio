@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="Rodapé">
+<path d="M0 60 C160 20 300 100 480 60 S 800 14 1000 62 V150 H0Z" fill="#F28A5B"/>
+<path d="M0 84 C180 44 320 122 500 84 S 810 40 1000 86 V150 H0Z" fill="#B93A0B"/>
+<path d="M0 108 C200 80 340 134 520 108 S 820 82 1000 110 V150 H0Z" fill="#111111"/>
+<text x="500" y="140" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="16" fill="#F1EFE8">Feito por Isaac Ramos · 2026</text>
+</svg>
